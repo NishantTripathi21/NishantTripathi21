@@ -55,10 +55,10 @@ I am currently navigating a rigorous curriculum covering Full-Stack Web Developm
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishantTripathi21&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantTripathi21&layout=compact&theme=radical" height="150" alt="languages graph" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishantTripathi21&show_icons=true&theme=transparent&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantTripathi21&layout=compact)
+
 
 ---
 
