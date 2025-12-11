@@ -50,16 +50,6 @@ I am currently navigating a rigorous curriculum covering Full-Stack Web Developm
 - **Backend Engineering:** Build secure REST APIs and scalable backend services.
 - **Deployment:** Deploy applications on cloud platforms like Vercel, Netlify and Render.
 - **Continuous Learning:** Self-learn complex topics with a structured, week-by-week progression.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishantTripathi21&show_icons=true&theme=transparent&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantTripathi21&layout=compact)
-
-
 ---
 
 ## 🌱 Outside Tech
