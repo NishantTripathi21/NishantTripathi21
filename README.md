@@ -2,7 +2,7 @@
 
 # Nishant Tripathi
 
-**CSE @ NIT Srinagar · MERN Developer · DSA Enthusiast · GenAI Learner**
+**CSE @ NIT Srinagar · Backend Developer · DSA Enthusiast r**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishanttripathi21)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nishanttripathi021@gmail.com)
@@ -12,12 +12,16 @@
 
 ---
 
-I'm a Computer Science & Engineering student at **NIT Srinagar**, building scalable systems and exploring the intersection of full-stack development, algorithms, and AI. Currently navigating a rigorous curriculum across **Full-Stack Web Development**, **DevOps**, and **Cloud** while keeping a strong grip on CS fundamentals.
+I'm a Computer Science & Engineering student at **NIT Srinagar**, building scalable systems and exploring the intersection of full-stack development, algorithms, and AI. Currently navigating a rigorous curriculum across **Backend Development**, **DevOps**, and **Cloud** while keeping a strong grip on CS fundamentals.
 
 ---
 
 ## 🔨 Projects
 
+### [Airport Ride Pooling System](https://github.com/nishanttripathi21)
+> Backend system that groups airport passengers into shared cabs, optimizes drop-off sequences using an insertion heuristic, and dynamically prices fares based on route distance, luggage, and demand.
+>
+> `Node.js` `Express` `PostgreSQL` `Algorithms` `RabbitMQ` `Redis` `K6` `Event- Driven Architecture`
 ### [RAG-Based Search Engine for Any Website](https://github.com/nishanttripathi21)
 > Full-stack app that crawls any website, converts content into vector embeddings, and lets you chat with it using AI. Features complete session isolation, fast crawling, and accurate RAG responses.
 > 
@@ -32,12 +36,6 @@ I'm a Computer Science & Engineering student at **NIT Srinagar**, building scala
 > Hospital management platform with 3-level authentication (Patient · Doctor · Admin), seamless scheduling, earnings tracking, and admin controls.
 >
 > `MongoDB` `Express` `React` `Node.js` `JWT`
-
-### [Airport Ride Pooling System](https://github.com/nishanttripathi21)
-> Backend system that groups airport passengers into shared cabs, optimizes drop-off sequences using an insertion heuristic, and dynamically prices fares based on route distance, luggage, and demand.
->
-> `Node.js` `Express` `MongoDB` `Algorithms`
-
 ---
 
 ## 🛠 Tech Stack
