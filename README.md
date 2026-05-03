@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishanttripathi21)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nishanttripathi021@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/nishanttripathi21)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Nishant_Tripathi21/))
 
 </div>
 
@@ -18,21 +18,21 @@ I'm a Computer Science & Engineering student at **NIT Srinagar**, building scala
 
 ## 🔨 Projects
 
-### [Airport Ride Pooling System](https://github.com/nishanttripathi21)
+### [Airport Ride Pooling System](https://github.com/NishantTripathi21/Airport-Car-Pooling-System)
 > Backend system that groups airport passengers into shared cabs, optimizes drop-off sequences using an insertion heuristic, and dynamically prices fares based on route distance, luggage, and demand.
 >
 > `Node.js` `Express` `PostgreSQL` `Algorithms` `RabbitMQ` `Redis` `K6` `Event- Driven Architecture`
-### [RAG-Based Search Engine for Any Website](https://github.com/nishanttripathi21)
+### [RAG-Based Search Engine for Any Website](https://github.com/NishantTripathi21/VectorCrawl-Engine)
 > Full-stack app that crawls any website, converts content into vector embeddings, and lets you chat with it using AI. Features complete session isolation, fast crawling, and accurate RAG responses.
 > 
 > `React` `Node.js` `Express` `Vector DB` `LangChain`
 
-### [PROMPTORA — AI SaaS Platform](https://github.com/nishanttripathi21)
+### [PROMPTORA — AI SaaS Platform](https://github.com/NishantTripathi21/PROMPTORA)
 > AI-powered SaaS for content creation, image intelligence, and productivity automation. Built on the PERN stack with subscription-based premium model and tools for content generation, image processing, and document analysis.
 >
 > `PostgreSQL` `Express` `React` `Node.js` `OpenAI API`
 
-### [Full Stack Appointment Booking System](https://github.com/nishanttripathi21)
+### [Full Stack Appointment Booking System](https://github.com/NishantTripathi21/MediConnect-)
 > Hospital management platform with 3-level authentication (Patient · Doctor · Admin), seamless scheduling, earnings tracking, and admin controls.
 >
 > `MongoDB` `Express` `React` `Node.js` `JWT`
@@ -75,14 +75,14 @@ I'm a Computer Science & Engineering student at **NIT Srinagar**, building scala
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=nishanttripathi21&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://streak-stats.demolab.com?user=nishanttripathi21&theme=default&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=NishantTripathi21&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://streak-stats.demolab.com?user=NishantTripathi21&theme=default&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/nishanttripathi21?theme=light&font=Nunito&ext=contest&hide_border=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Nishant_Tripathi21?theme=light&font=Nunito&ext=contest&hide_border=true)
 
 </div>
 
