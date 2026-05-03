@@ -2,11 +2,11 @@
 
 # Nishant Tripathi
 
-**CSE @ NIT Srinagar · Backend Developer · DSA Enthusiast r**
+**CSE @ NIT Srinagar · Backend Developer · DSA Enthusiast **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishanttripathi21)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nishanttripathi021@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Nishant_Tripathi21/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Nishant_Tripathi21/)
 
 </div>
 
